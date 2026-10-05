@@ -1,0 +1,238 @@
+{
+ "1001": {
+  "name": "Bắc Ninh",
+  "total": 46
+ },
+ "1002": {
+  "name": "Phú Thọ",
+  "total": 12
+ },
+ "1003": {
+  "name": "Hà Nam",
+  "total": 12
+ },
+ "1004": {
+  "name": "Hải Dương",
+  "total": 25
+ },
+ "1006": {
+  "name": "Hưng Yên",
+  "total": 12
+ },
+ "1007": {
+  "name": "Ninh Bình",
+  "total": 6
+ },
+ "1008": {
+  "name": "Vĩnh Phúc",
+  "total": 15
+ },
+ "2010": {
+  "name": "Bà Rịa - Vũng Tàu",
+  "total": 557
+ },
+ "2011": {
+  "name": "Bình Dương",
+  "total": 1230
+ },
+ "2012": {
+  "name": "Bình Phước",
+  "total": 54
+ },
+ "2013": {
+  "name": "Đồng Nai",
+  "total": 1481
+ },
+ "2014": {
+  "name": "Tây Ninh",
+  "total": 124
+ },
+ "3016": {
+  "name": "Quảng Nam",
+  "total": 71
+ },
+ "3017": {
+  "name": "Đà Nẵng",
+  "total": 2244
+ },
+ "4019": {
+  "name": "Hải Phòng",
+  "total": 450
+ },
+ "4020": {
+  "name": "Nam Định",
+  "total": 213
+ },
+ "4021": {
+  "name": "Thái Bình",
+  "total": 34
+ },
+ "5024": {
+  "name": "An Giang",
+  "total": 562
+ },
+ "5025": {
+  "name": "Bạc Liêu",
+  "total": 24
+ },
+ "5026": {
+  "name": "Bến Tre",
+  "total": 248
+ },
+ "5027": {
+  "name": "Cần Thơ",
+  "total": 1795
+ },
+ "5028": {
+  "name": "Cà Mau",
+  "total": 49
+ },
+ "5029": {
+  "name": "Đồng Tháp",
+  "total": 227
+ },
+ "5030": {
+  "name": "Hậu Giang",
+  "total": 50
+ },
+ "5031": {
+  "name": "Kiên Giang",
+  "total": 127
+ },
+ "5032": {
+  "name": "Long An",
+  "total": 200
+ },
+ "5033": {
+  "name": "Sóc Trăng",
+  "total": 129
+ },
+ "5034": {
+  "name": "Tiền Giang",
+  "total": 172
+ },
+ "5035": {
+  "name": "Trà Vinh",
+  "total": 45
+ },
+ "5036": {
+  "name": "Vĩnh Long",
+  "total": 252
+ },
+ "6038": {
+  "name": "Quảng Bình",
+  "total": 9
+ },
+ "6039": {
+  "name": "Quảng Trị",
+  "total": 11
+ },
+ "6040": {
+  "name": "Thừa Thiên Huế",
+  "total": 136
+ },
+ "7042": {
+  "name": "Bình Thuận",
+  "total": 134
+ },
+ "7043": {
+  "name": "Bình Định",
+  "total": 31
+ },
+ "7044": {
+  "name": "Khánh Hòa",
+  "total": 59
+ },
+ "7045": {
+  "name": "Ninh Thuận",
+  "total": 11
+ },
+ "7046": {
+  "name": "Phú Yên",
+  "total": 7
+ },
+ "7047": {
+  "name": "Quảng Ngãi",
+  "total": 77
+ },
+ "8049": {
+  "name": "Hà Tĩnh",
+  "total": 9
+ },
+ "8050": {
+  "name": "Nghệ An",
+  "total": 96
+ },
+ "8051": {
+  "name": "Thanh Hóa",
+  "total": 35
+ },
+ "9053": {
+  "name": "Đắk Lắk",
+  "total": 429
+ },
+ "9054": {
+  "name": "Đắk Nông",
+  "total": 16
+ },
+ "9055": {
+  "name": "Kon Tum",
+  "total": 4
+ },
+ "9056": {
+  "name": "Gia Lai",
+  "total": 34
+ },
+ "9057": {
+  "name": "Lâm Đồng",
+  "total": 156
+ },
+ "10059": {
+  "name": "Bắc Kạn",
+  "total": 2
+ },
+ "10060": {
+  "name": "Bắc Giang",
+  "total": 21
+ },
+ "10061": {
+  "name": "Cao Bằng",
+  "total": 1
+ },
+ "10062": {
+  "name": "Hà Giang",
+  "total": 3
+ },
+ "10064": {
+  "name": "Thái Nguyên",
+  "total": 8
+ },
+ "10065": {
+  "name": "Tuyên Quang",
+  "total": 3
+ },
+ "11068": {
+  "name": "Lai Châu",
+  "total": 1
+ },
+ "11069": {
+  "name": "Lào Cai",
+  "total": 1
+ },
+ "11070": {
+  "name": "Sơn La",
+  "total": 1
+ },
+ "11071": {
+  "name": "Yên Bái",
+  "total": 1
+ },
+ "12000": {
+  "name": "Hà Nội",
+  "total": 3745
+ },
+ "13000": {
+  "name": "Tp Hồ Chí Minh",
+  "total": 10000
+ }
+}
